@@ -18,10 +18,3 @@ make
 make install # As root
 ```
 Use `-laiko-json` in gcc to link it with your project.
-
-## Examples
-
-### Generating JSON
-
-### Parsing JSON
-
